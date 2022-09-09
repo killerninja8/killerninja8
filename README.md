@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @killerninja8
-- 👀 I’m interested in algorithmic trading 
-- 🌱 I’m currently learning SAS and SQL
-- 💞️ I’m looking to collaborate on algotrading, asset pricing model projects 
+- 👋 Hi, I’m Sid Grover!
+- 👀 I’m interested in data analytics, machine learning, and process engineering
+- 💞️ I like to read about finance (empirical asset pricing) 
 - 📫 How to reach me: groversiddharth21[/at/]gmail.com
 
 <!---
