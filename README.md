@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sid Grover!
-- 👀 I’m interested in data analytics, machine learning, and process engineering
+- 👀 I’m interested in data ana, machine learning, and process engineering
 - 💞️ I like to read about finance (empirical asset pricing) 
 - 📫 How to reach me: groversiddharth21[/at/]gmail.com
 
