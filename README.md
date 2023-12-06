@@ -2,12 +2,12 @@
 
 Welcome to my GitHub profile! I'm passionate about data analytics, machine learning, and process engineering. Feel free to explore the projects I've worked on, and don't hesitate to get in touch!
 
-## 📈 GitHub Stats
+## 📈 About
 
 [![Sid's GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-<killerninja8>)](https://github.com/killerninja8)
 
 [![DS Workflows Project](https://img.shields.io/badge/DS%20Workflows%20Project-Public-blue)](https://github.com/UBC-MDS/dsci_522_group_8_bank_marketing_project)
-[![Ensemble Models Project](https://img.shields.io/badge/Ensemble%20Models%20Project-Public-orange)](https://github.com/YourGitHubUsername/airbnbPopularity)
+[![Ensemble Models Project](https://img.shields.io/badge/Ensemble%20Models%20Project-Public-orange)](https://github.com/killerninja8/airbnbPopularity)
 
 ## 📫 How to Reach Me
 
