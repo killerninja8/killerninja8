@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm passionate about data analytics, machine learn
 [![Data Science Workflows Project](https://img.shields.io/badge/DS%20Workflows%20Project-Public-blue)](https://github.com/UBC-MDS/dsci_522_group_8_bank_marketing_project)
 [![Ensemble Models Project](https://img.shields.io/badge/Ensemble%20Models%20Project-Public-orange)](https://github.com/killerninja8/airbnbPopularity)
 [![SemiSupervised Learning Project](https://img.shields.io/badge/Semi%20Supervised%20Learning%20Project-Public-green)](https://github.com/killerninja8/airbnbPopularity)
+[![UCIData DataLake Tableau Project](https://img.shields.io/badge/UCIData%20DataLake%20Tableau%20Project-Public-yellow)](https://github.com/killerninja8/ucidata-datalake-tableau)
+
 
 
 ## 📫 How to Reach Me
